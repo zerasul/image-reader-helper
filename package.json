@@ -1,0 +1,27 @@
+{
+  "name": "image-read-helper",
+  "version": "0.0.1",
+  "description": "Image Reader For get information from BMP, PNG and JPEG Images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "image",
+    "jpg",
+    "bmp",
+    "png",
+    "reader",
+    "helper"
+  ],
+  "author": "Zerasul",
+  "license": "MIT",
+  "dependencies": {
+    "bmp-js": "^0.1.0",
+    "pngjs": "^6.0.0",
+    "jpeg-js": "^0.4.3"
+  }
+}
