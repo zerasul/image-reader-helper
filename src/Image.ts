@@ -28,7 +28,7 @@ export class ImageColor{
      * @param b blue value (0-255)
      * @param a alpha value (0-255)
      */
-    public constructor(public r:number, private g:number, private b:number, private a:number){
+    public constructor(public r:number, public g:number, public b:number, public a:number){
 
     }
 

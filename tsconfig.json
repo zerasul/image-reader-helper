@@ -4,6 +4,6 @@
         "target": "ES6",
         "outDir": "./build"
     },
-    "include": ["src/**/*"],
+    "include": ["src/**/*","index.ts"],
     "exclude": ["node_modules","**/*.spec.ts","**/test"]
 }

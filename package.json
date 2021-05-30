@@ -1,8 +1,8 @@
 {
-  "name": "image-read-helper",
+  "name": "@zerasul/image-read-helper",
   "version": "0.0.1",
   "description": "Image Reader For get information from BMP, PNG and JPEG Images",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
     "test": "mocha -r ts-node/register src/**/*.spec.ts"
   },
@@ -16,10 +16,11 @@
     "bmp",
     "png",
     "reader",
-    "helper"
+    "helper",
+    "palette"
   ],
   "author": "Zerasul",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "@types/node": "^15.6.1",
     "image-decode": "^1.2.2"
