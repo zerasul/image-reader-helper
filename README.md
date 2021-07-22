@@ -28,7 +28,7 @@ Or using a Buffer:
 ```typescript
 let buffer = fs.readFileSync('path to your file');
 
-let model:ImageModel=ImageReader.read('path to your file');
+let model:ImageModel=ImageReader.read(buffer);
 ```
 
 The ImageModel class have this Properties:
