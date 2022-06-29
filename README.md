@@ -1,7 +1,7 @@
 # Image Read Helper
 
 
-[![Test](https://github.com/zerasul/image-reader-helper/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/zerasul/image-reader-helper/actions/workflows/main.yml) [![npm](https://img.shields.io/npm/v/@zerasul/image-read-helper?color=green)](https://www.npmjs.com/package/@zerasul/image-read-helper) ![npm](https://img.shields.io/npm/dt/@zerasul/image-read-helper?style=plastic)
+[![Test](https://github.com/zerasul/image-reader-helper/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/zerasul/image-reader-helper/actions/workflows/main.yml) [![npm](https://img.shields.io/npm/v/@zerasul/image-read-helper?color=green)](https://www.npmjs.com/package/@zerasul/image-read-helper) ![npm](https://img.shields.io/npm/dt/@zerasul/image-read-helper?style=flat)
 
 This library allows you to get some information about images; reading and getting information like width, height and the palette colour.
 
