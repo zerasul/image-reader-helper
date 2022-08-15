@@ -22,7 +22,7 @@
   "author": "Zerasul",
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
-    "@types/node": "^17.0.8",
+    "@types/node": "^18.7.3",
     "image-decode": "^1.2.2"
   },
   "devDependencies": {
