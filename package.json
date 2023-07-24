@@ -1,6 +1,6 @@
 {
   "name": "@zerasul/image-read-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Image Reader For get information from BMP, PNG and JPEG Images",
   "main": "build/index.js",
   "scripts": {
